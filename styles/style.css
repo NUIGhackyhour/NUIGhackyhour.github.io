@@ -8,6 +8,7 @@ margin-bottom: 0;
 line-height: 1.42857143 !important;
 }
 .bg-1 {
+background-image: url("images/background");
 background-color: #1abc9c;
 color: #ffffff;
 }
