@@ -1,0 +1,56 @@
+body{
+font: 400 15px Lato, sans-serif;
+line-height: 1;
+/*color: #202020;*/
+}
+.navbar {
+margin-bottom: 0;
+line-height: 1.42857143 !important;
+}
+.bg-1 {
+background-color: #1abc9c;
+color: #ffffff;
+}
+.bg-grey {
+background-color: #d3d3d3;
+}
+.jumbotron {
+padding-top: 110px;
+padding-bottom: 70px;
+padding-left: 25px;
+padding-right: 25px;
+}
+.container-fluid-extra {
+padding: 20px 20px;
+}
+@media screen and (max-width: 1000px) {
+.col-sm-4 {
+text-align: center;
+margin: 25px 0;
+}
+}
+.anchor{
+display: block;
+height: 51px; /*same height as header*/
+margin-top: -51px; /*same height as header*/
+visibility: hidden;
+}
+.project{
+color: #812000;
+}
+.page-footer{
+padding-top: 300px;
+padding-bottom:100px;
+}
+.carousel-inner{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+width: 100%;
+height: auto;
+}
+	 		
