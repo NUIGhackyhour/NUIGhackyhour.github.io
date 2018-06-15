@@ -11,6 +11,8 @@ Once you have jekyll installed, you can render the site:
 ```
 # move to wherever you cloned this repository
 cd NUIG_hacky_hour
+# install plugin to serve up markdown as html
+gem install jekyll-feed
 # run jekyll
 jekyll serve
 ```
