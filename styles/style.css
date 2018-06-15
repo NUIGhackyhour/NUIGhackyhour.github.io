@@ -8,10 +8,7 @@ margin-bottom: 0;
 line-height: 1.42857143 !important;
 }
 .bg-1 {
-background-image: url("../images/background.jpg");
-background-color: #1abc9c;
-background-repeat: no-repeat;
-background-size: cover;
+background: url("../images/background.jpg") no-repeat center center fixed;
 color: #ffffff;
 }
 .bg-grey {
@@ -66,3 +63,7 @@ p{
     font:  25px Lato, sans-serif;
     line-height: 1.2;
 }
+/* bg-light { */
+/*     background-color: #000000; */
+/*     color: #ffffff; */
+/* } */

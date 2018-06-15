@@ -1,0 +1,15 @@
+# Site settings
+title: NUIG Hacky Hour
+description: Here is something witty and concise, perfect for a website footer.
+baseurl: ""
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+repository: NUIG_hacky_hour/nickp60.github.io
+url: https://NUIGhackyhour.github.io
