@@ -8,8 +8,10 @@ margin-bottom: 0;
 line-height: 1.42857143 !important;
 }
 .bg-1 {
-background-image: url("images/background.jpg");
+background-image: url("../images/background.jpg");
 background-color: #1abc9c;
+background-repeat: no-repeat;
+background-size: cover;
 color: #ffffff;
 }
 .bg-grey {
@@ -25,10 +27,10 @@ padding-right: 25px;
 padding: 20px 20px;
 }
 @media screen and (max-width: 1000px) {
-.col-sm-4 {
-text-align: center;
-margin: 25px 0;
-}
+    .col-sm-4 {
+	text-align: center;
+	margin: 25px 0;
+    }
 }
 .anchor{
 display: block;
@@ -40,7 +42,7 @@ visibility: hidden;
 color: #812000;
 }
 .page-footer{
-padding-top: 300px;
+padding-top: 100px;
 padding-bottom:100px;
 }
 .carousel-inner{
@@ -54,4 +56,13 @@ margin-bottom: 20px;
 width: 100%;
 height: auto;
 }
-	 		
+p{
+    margin-top: 1%;
+    margin-bottom: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.li{
+    font:  25px Lato, sans-serif;
+    line-height: 1.2;
+}
