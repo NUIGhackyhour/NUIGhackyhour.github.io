@@ -11,10 +11,12 @@ Once you have jekyll installed, you can render the site:
 ```
 # move to wherever you cloned this repository
 cd NUIG_hacky_hour
-# install plugin to serve up markdown as html
-gem install jekyll-feed
+# install bundle to handle jekyll's dependencies
+gem install bundle
+# install dependencies
+bundle install
 # run jekyll
-jekyll serve
+bundle exec jekyll serve
 ```
 From there, you should be able to go to the url [127.0.0.1:4000](127.0.0.1:4000) to see your site rendered from your computer.
 
