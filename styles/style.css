@@ -78,6 +78,8 @@ footer{
   margin-right: 0%;
   margin-left: 0%;
 }
+
+.buttonrounded {border-radius: 20px;}
 /* bg-light { */
 /*     background-color: #000000; */
 /*     color: #ffffff; */
