@@ -4,7 +4,7 @@ Site for NUIG Hacky Hour
 This site will be used to notify members of meeting time/topics, as well as serving as a sandbox for trying out various web things.
 
 # Testing Locally
-GitHub Pages uses a framework called Jekyll to generate the site.  You can install this for testing the site on your computer.
+GitHub Pages uses a framework called Jekyll to generate the site.  You can install this framework for testing the site on your own computer.
 [Installing Jekyll](https://jekyllrb.com/docs/installation/)
 
 Once you have jekyll installed, you can render the site:
