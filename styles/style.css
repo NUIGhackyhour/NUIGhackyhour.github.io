@@ -3,6 +3,9 @@ font: 400 15px Lato, sans-serif;
 line-height: 1;
 /*color: #202020;*/
 }
+.navbar-inverse {
+     background-color: #222;
+}
 .navbar {
 margin-bottom: 0;
 line-height: 1.42857143 !important;
@@ -67,6 +70,13 @@ p{
 .li{
     font:  25px Lato, sans-serif;
     line-height: 1.2;
+}
+footer{
+  background-color: #222;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-right: 0%;
+  margin-left: 0%;
 }
 /* bg-light { */
 /*     background-color: #000000; */
