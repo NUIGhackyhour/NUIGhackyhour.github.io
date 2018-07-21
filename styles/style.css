@@ -16,8 +16,8 @@ line-height: 1.42857143 !important;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
-color: #ffffff;
+background-color:  #2a27c6;
+color: #ffff;
 }
 .bg-grey {
 background-color: #d3d3d3;
@@ -31,6 +31,7 @@ padding-right: 25px;
 .container-fluid-extra {
 padding: 20px 20px;
 }
+
 @media screen and (max-width: 1000px) {
     .col-sm-4 {
 	text-align: center;
