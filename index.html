@@ -21,54 +21,40 @@ layout: homepage
         </h4>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="about">
       <div class="panel-body">
         <p style="color:Black">We all use computers for our work, whether it is for data entry, writing code, ordering supplies, writing papers, etc.  The goal of this group is to meet and
           <li><strong>learn about new tools</strong> </li>
           <li><strong>help each other troubleshoot any issues.</strong> </li>
         </p>
-    </div>
-
-    </div>
-    </div>
-  <!--
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Collapsible Group Item #2
-        </h4>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
       </div>
     </div>
-  </div>
+
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h4 class="panel-title">
         <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Collapsible Group Item #3
+          Where/when are we meeting?
         </h4>
       </h4>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="whenwher">
       <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <p style="color:Black">
+          Every Friday, 16:00-17:30, at Sult/The College Bar
+        </p>
       </div>
     </div>
   </div>
-</div> -->
+</div>
 
-<button class="buttoncollapse buttonrounded btn btn-primary btn-block" data-toggle="collapse" data-target="#demo"><h3>Where/when are we meeting?</h3></button>
+<!-- <button class="buttoncollapse buttonrounded btn btn-primary btn-block" data-toggle="collapse" data-target="#demo"><h3>Where/when are we meeting?</h3></button>
 
 <div id="demo" class="collapse">
   <p>
     Every Friday, 16:00-17:30, at Sult/The College Bar
   </p>
-</div>
+</div> -->
 
 
 <div>
@@ -95,7 +81,8 @@ layout: homepage
 $(".panel-heading").parent('.panel').hover(
   function() {
     $(this).children('.collapse').collapse('show');
-  }, function() {
+  },
+  function() {
     $(this).children('.collapse').collapse('hide');
   }
 );
