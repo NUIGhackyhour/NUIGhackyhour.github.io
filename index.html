@@ -16,12 +16,12 @@ layout: homepage
   <div class="panel panel-default">
     <div class="panel-heading" role="tab">
       <h4 class="panel-title">
-        <h4 role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           So what is this all about?
         </h4>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="about">
+    <div class="panel-collapse collapse" role="tabpanel" aria-labelledby="about">
       <div class="panel-body">
         <p style="color:Black">We all use computers for our work, whether it is for data entry, writing code, ordering supplies, writing papers, etc.  The goal of this group is to meet and
           <li><strong>learn about new tools</strong> </li>
@@ -37,7 +37,7 @@ layout: homepage
         </h4>
       </h4>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="whenwher">
+    <div class="panel-collapse collapse" role="tabpanel" aria-labelledby="whenwher">
       <div class="panel-body">
         <p style="color:Black">
           Every Friday, 16:00-17:30, at Sult/The College Bar
@@ -71,5 +71,4 @@ $(".panel-heading").parent('.panel').hover(
     $(this).children('.collapse').collapse('hide');
   }
 );
-
 </script>
