@@ -37,6 +37,16 @@ padding: 20px 20px;
 	text-align: center;
 	margin: 25px 0;
     }
+
+}
+.panel-default > .panel-heading {
+    background-color:#222;
+}
+.collapsed{
+  color: #ffff;
+}
+.panel-collapse{
+  background-color: #ffff;
 }
 .anchor{
 display: block;
