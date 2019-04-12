@@ -1,5 +1,6 @@
 ---
 title: Home
+nav_exclude: true
 ---
 ## Project description
 This is a *self-learning* project in which I aim to understand HTML, CSS, and
