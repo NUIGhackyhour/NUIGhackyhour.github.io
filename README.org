@@ -43,3 +43,5 @@ And the following directories:
   - _posts :: Posts for the website. The posts files must have the following
               name structure ~YEAR-MONTH-DAY-title.MARKUP~
   - _site :: The built site. *This is not tracked by git* and only available locally.
+* References
+See the official Jekyll guide at https://jekyllrb.com/docs/
