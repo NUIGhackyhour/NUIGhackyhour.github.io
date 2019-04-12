@@ -16,6 +16,10 @@ Being learning the objective of this project any form of constructive
 collaboration (e.g., improvements for syntax, structure, suggestions for
 resources, etc.) is welcomed.
 
+Run the website with:
+    bundle install
+    bundle exec jekyll serve
+
 * Folder content and structure
 This project folder contain the following files:
   - Basic linux files :: ~.~, ~..~, and ~.directory~

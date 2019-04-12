@@ -1,3 +1,20 @@
 remote_theme: pmarsceill/just-the-docs
-title: My Test GiHub Page
+title: NUIG Hacky Hour
 description: A website to test HTML, CSS, and Jekyll comands.
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+collections:
+  Essentials:
+    output: true
+    permalink: /:collection/:name
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "About":
+    - "/About.html"
+  "Contact":
+    - "/Contact.html"
