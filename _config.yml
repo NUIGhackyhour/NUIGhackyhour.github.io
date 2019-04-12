@@ -4,6 +4,9 @@ description: Here is something witty and concise, perfect for a website footer.
 baseurl: ""
 # Build settings
 markdown: kramdown
+
+theme: "just-the-docs"
+
 plugins:
   - jekyll-feed
 
