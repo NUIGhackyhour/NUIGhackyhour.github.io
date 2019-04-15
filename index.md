@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Home
 nav_exclude: true
+
 ---
 ## Project description
 Welcome to the HH webstite. A *self-learning* project run by some geeky
