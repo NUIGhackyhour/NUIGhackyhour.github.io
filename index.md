@@ -1,22 +1,43 @@
----
-layout: default
-title: Home
-nav_exclude: true
+<!-- This is a cumbersome way to have comments in markdown that are excluded -->
+<!-- form HTML -->
+<!-- README file for hh-nuig website development -->
+<!-- authors: # Marco Prevedello m.prevedello1@nuigalway.ie # Carlos Sanchez -->
+<!-- c.sanchez2@nuigalwa.ie -->
 
----
+# README file for the hh-nuig website development
+
 ## Project description
-Welcome to the HH webstite. A *self-learning* project run by some geeky
-microbiologist in which we aim to understand HTML, CSS, and Jekyll
-(a static site generator written in ruby) at a sufficient level to be
-able to create and maintain a site for succesful collaborations within the
-microbiology department. The
-[hh-nuig](https://nuighackyhour.github.io/ "hh-nuig webpage") webpage
-will contain blog posts, documentation, and tutorials useful for the people
- in microbiology NUIG.
 
-We aim to develop a usable and complete site by <2019-04-30 Tue>.
+We are the Bioinformatic Section of the Microbiology Society
+([MicroSoc](https://socs.nuigalway.ie/societies.php?id=NjI=)) at NUI Galway
+(Ireland) and this is our website build. Our section is composed by:
+
+* [Carlos Sanchez](mailto:c.sanchez2@nuigalway.ie) - Web and devices
+* [Marco Prevedello](mailto:m.prevedello1@nuigalway.ie) - Amplicon sequencing
+  and web
+* [Nick Waters](mailto:n.waters4@nuigalway.ie) - WGS and data analysis
+* [Peyman Sadrimajd](mailto:p.sadrimajd1@nuigalway.ie) - Machine Learning
+* [Theo Trabac](mailto:t.trabac1@nuigalway.ie) - Amplicon sequencing
+
+We aim to implement and share open, standardized, opinionated statistical and
+bioinformatic methods developed at the Department of Microbiology (NUI Galway,
+Ireland). [**This**](https://github.com/NUIGhackyhour/NUIGhackyhour.github.io)
+is our develop version of the website. The official website for MicroSoc,
+including all the goodies we are working on here, will be soon deployed. So,
+**stay tuned!!**
 
 ## Collaboration
-Being learning the objective of this project any form of constructive
-collaboration (e.g., improvements for syntax, structure, suggestions for
-resources, etc.) is welcomed.
+
+We ain't expert web developers, we ain't expert statisticians or
+bioinformaticians, but we are PhD students aiming to get better and share our
+learning process. Hence, any form of constructive suggestion is more than
+welcomed.
+
+To get started fork this repository and send us a pull request! :+1: We will
+respond in no time :boom:
+
+If you want to give us direct suggestion do not hesitate and hits us up at
+[email address](mailto:hh-nuig@googlegroup.com).
+
+If you need a hand to get around our coding choices or with the Jekyll
+framework, head to the [Getting Started](Getting-Started.html) guide.
