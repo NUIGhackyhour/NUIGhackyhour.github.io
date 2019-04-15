@@ -40,4 +40,4 @@ If you want to give us direct suggestion do not hesitate and hits us up at
 [email address](mailto:hh-nuig@googlegroup.com).
 
 If you need a hand to get around our coding choices or with the Jekyll
-framework, head to the [Getting Started](Getting-Started.html) guide.
+framework, head to the [Getting Started](404) guide.

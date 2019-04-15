@@ -12,6 +12,9 @@ collections:
 # Enable or disable the site search
 search_enabled: true
 
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
+
 # Aux links for the upper right navigation
 aux_links:
   "Home":
