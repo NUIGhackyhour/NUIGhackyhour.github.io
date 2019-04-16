@@ -16,7 +16,7 @@ this project.
 
 ## Deploy the website locally using Jekyll
 Jekyll is a [Ruby Gem](https://guides.rubygems.org/what-is-a-gem/) that can be
-installed on any operative system having a `c++` compiler (the common GNU
+installed on any operating system having a `c++` compiler (the common GNU
 Compiler Collection would be the best option
 [GCC](https://gcc.gnu.org/install/)), [GNU
 Make](https://www.gnu.org/software/make/), [Ruby
