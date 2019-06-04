@@ -1,5 +1,5 @@
-theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 title: NUIG Hacky Hour
 description: A website to test HTML, CSS, and Jekyll comands.
 
