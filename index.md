@@ -26,6 +26,9 @@ is our develop version of the website. The official website for MicroSoc,
 including all the goodies we are working on here, will be soon deployed. So,
 **stay tuned!!**
 
+## Join the discussions on Slack!
+Got questions?  Wanna chat between meetings? [**Join us on Slack**](https://join.slack.com/t/hh-nuig/shared_invite/enQtNjI0NDMxNTI2MDcxLThlYzFjY2M0ZjI3YzUyZTgzMWI3MzI1MmNmMGFmYjViMzdmZjA4N2FlYzYxZmY5YzQwZGJiNjI5OGExM2RmMDU)
+
 ## Collaboration
 
 We ain't expert web developers, we ain't expert statisticians or
