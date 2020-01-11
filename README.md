@@ -4,8 +4,6 @@
 <!-- authors: # Marco Prevedello m.prevedello1@nuigalway.ie # Carlos Sanchez -->
 <!-- c.sanchez2@nuigalwa.ie -->
 
-# README file for the hh-nuig website development
-
 ## Project description
 
 We are the Bioinformatic Section of the Microbiology Society
