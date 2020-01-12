@@ -44,3 +44,7 @@ If you want to give us direct suggestion do not hesitate and hits us up at
 
 If you need a hand to get around our coding choices or with the Jekyll
 framework, head to the [Getting Started](Getting-Started.html) guide.
+
+*“This class is supported by DataCamp, the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.”* 
+![DataCamp logo](https://github.com/NUIGhackyhour/NUIGhackyhour.github.io/blob/master/DataCamp-Horizontal-RGB.png)
+
